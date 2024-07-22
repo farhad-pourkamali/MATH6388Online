@@ -16,6 +16,6 @@
 | 12   | 11/4 - 11/8 | Implementing Recurrent Neural Networks Using Keras |      |
 | 13   | 11/11 - 11/15 | Hyperparameter Optimization for Neural Networks Using KerasTuner |   |
 | 14   | 11/18 - 11/22 |  Beyond Point Predictions: Building Prediction Sets with Conformal Inference |     | 
-| 15   | 12/2 - 12/5  | Final Project: Presentation, Analysis, and Peer Feedback |   |
+| 15   | 12/2 - 12/5  | Final Project: Presentation, Analysis, and Peer Feedback |     |
 
 
