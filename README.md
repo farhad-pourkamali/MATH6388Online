@@ -3,7 +3,7 @@
 | Week | Dates        | Topic                         | Video Link                 |
 |------|-------------|-------------------------------|----------------------------|
 | 1    | 8/19 - 8/23 | Mathematical Building Blocks of Machine Learning         |       |
-<tr style="height:50px;">| 2    | 8/26 - 8/30 | Python Programming for Machine Learning, Part 1: Object-Oriented Programming     |          |
+| 2    | 8/26 - 8/30 | Python Programming for Machine Learning, Part 1: Object-Oriented Programming     |          |
 | 3    | 9/3 - 9/6 |  Python Programming for Machine Learning, Part 2: Tensor, Gradient, and Automatic Differentiation          |
 | 4    | 9/9 - 9/13 | Loss Function Derivation for Regression Problems |     |
 | 5    | 9/16 - 9/20 | Loss Function Optimization using Gradient Descent   |      |
