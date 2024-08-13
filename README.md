@@ -5,7 +5,7 @@
 | 1    | 8/19 - 8/23 | Mathematical Building Blocks of Machine Learning         |   https://youtu.be/xx9vDj2_A1c    |
 | 2    | 8/26 - 8/30 | Python Programming for Machine Learning, Part 1: Object-Oriented Programming     |   https://youtu.be/iTtp5BBi-w0       |
 | 3    | 9/3 - 9/6 |  Python Programming for Machine Learning, Part 2: Tensor, Gradient, and Automatic Differentiation          | https://youtu.be/sOY57NJ0LMs|
-| 4    | 9/9 - 9/13 | Loss Function Derivation for Regression Problems |     |
+| 4    | 9/9 - 9/13 | Loss Function Derivation for Regression Problems |    https://youtu.be/MXi8liTFquM |
 | 5    | 9/16 - 9/20 | Loss Function Optimization using Gradient Descent   |      |
 | 6    | 9/23 - 9/27 | Loss Function Derivation for Classification Problems  |       |
 | 7    | 9/30 - 10/4  | Logistic Regression, Decision Boundaries, and Performance Metrics |    |
