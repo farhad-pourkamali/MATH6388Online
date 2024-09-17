@@ -7,7 +7,7 @@
 | 3    | 9/3 - 9/6 |  Python Programming for Machine Learning, Part 2: Tensor, Gradient, and Automatic Differentiation          | https://youtu.be/sOY57NJ0LMs|
 | 4    | 9/9 - 9/13 | Loss Function Derivation for Regression Problems |    https://youtu.be/MXi8liTFquM |
 | 5    | 9/16 - 9/20 | Loss Function Optimization using Gradient Descent   |  https://youtu.be/0hzFtjHTsYs    |
-| 6    | 9/23 - 9/27 | Loss Function Derivation for Classification Problems  |       |
+| 6    | 9/23 - 9/27 | Logistic Regression and Loss Function Derivation for Classification Problems   |       |
 | 7    | 9/30 - 10/4  | Logistic Regression, Decision Boundaries, and Performance Metrics |    |
 | 8    | 10/7 - 10/11 | Mathematical Building Blocks of Neural Networks |    |
 | 9    | 10/14 - 10/18 | Implementing Feedforward Neural Networks using Keras and Backpropagation  |      |
