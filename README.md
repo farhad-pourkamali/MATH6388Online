@@ -8,8 +8,8 @@
 | 4    | 9/9 - 9/13 | Loss Function Derivation for Regression Problems |    https://youtu.be/MXi8liTFquM |
 | 5    | 9/16 - 9/20 | Loss Function Optimization using Gradient Descent   |  https://youtu.be/0hzFtjHTsYs    |
 | 6    | 9/23 - 9/27 | Logistic Regression and Loss Function Derivation for Classification Problems   |  https://youtu.be/QZ_qNldu2eo  https://youtu.be/eo69GAVT-T4     |
-| 7    | 9/30 - 10/4  | Evaluating Classification Models |    |
-| 8    | 10/7 - 10/11 | Mathematical Building Blocks of Neural Networks |    |
+| 7    | 9/30 - 10/4  | Evaluating Classification Models |   https://youtu.be/K5HP78pmJVs https://youtu.be/NCZp7QtXXY0 |
+| 8    | 10/7 - 10/11 | Mathematical Building Blocks of Neural Networks |  https://youtu.be/3pFDgR245HU  |
 | 9    | 10/14 - 10/18 | Implementing Feedforward Neural Networks using Keras and Backpropagation  |      |
 | 10   | 10/21 - 10/25 | The Neural Code: Deciphering Activation Functions for Optimal Performance  |    |
 | 11   | 10/28 - 11/1 | Implementing Convolutional Neural Networks using Keras |    |
