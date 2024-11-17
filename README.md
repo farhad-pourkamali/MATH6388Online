@@ -14,8 +14,8 @@
 | 10   | 10/21 - 10/25 | Neural Networks in Action  |  https://youtu.be/Bru7lf-KhkM  |
 | 11   | 10/28 - 11/1 | Implementing Convolutional Neural Networks using Keras |  https://youtu.be/4K6mpCRvO74  |
 | 12   | 11/4 - 11/8 |  Hyperparameter Optimization for Neural Networks using KerasTuner |  https://youtu.be/pC5EsO92R4M    |
-| 13   | 11/11 - 11/15 |Beyond Point Predictions: Building Prediction Sets with Conformal Inference  |   |
-| 14   | 11/18 - 11/22 |  Implementing Recurrent Neural Networks using Keras |     | 
+| 13   | 11/11 - 11/15 |Beyond Point Predictions: Building Prediction Sets with Conformal Inference  |  https://youtu.be/oqK6rM8fbkk |
+| 14   | 11/18 - 11/22 |  Implementing Recurrent Neural Networks using Keras |  https://youtu.be/uOnnCOF11NY   | 
 | 15   | 12/2 - 12/6  | Final Project: Presentation, Analysis, and Peer Feedback |     |
 
 
